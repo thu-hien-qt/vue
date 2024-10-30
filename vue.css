@@ -1,0 +1,27 @@
+#calculator {
+    width: 200px;
+    margin: auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+button {
+    width: 50px;
+}
+
+input {
+    width: 200px;
+    text-align: right;
+}
+
+.clear {
+    background-color: yellow;
+    border-color: none;
+}
+
+.equal {
+    background-color: rgb(58, 170, 251);
+    border-color: pink;
+}
+
